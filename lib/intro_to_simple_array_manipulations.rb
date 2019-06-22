@@ -23,14 +23,16 @@ def shift_with_args (arr)
 end
 #
 def using_concat (arr1,arr2)
-  arr1.concat(arr2)
+  return arr1.concat(arr2)
 end
 #
 def using_insert (arr,ele)
-  arr.insert
+  return arr.insert(4,ele)
 end
-
-
+#
+def using_uniq(arr)
+  
+end
 
 
 
