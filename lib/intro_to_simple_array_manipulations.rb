@@ -15,5 +15,7 @@ return arr.pop(2)
 end
 #
 def using_shift (arr)
-  return arr.shift(2)
+  return arr.shift()
 end
+#
+def
