@@ -39,7 +39,7 @@ return arr.flatten
 end
 #
 def using_delete (arr,str)
-  
+return arr.delete(str)
 end
 #
 def using_delete_at ()
