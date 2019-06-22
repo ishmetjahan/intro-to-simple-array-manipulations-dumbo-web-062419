@@ -10,10 +10,10 @@ def using_pop (arr)
   return arr.pop()
 end
 #
-def pop_with_args (arr,arg)
-return arr.pop(arg)
+def pop_with_args (arr)
+return arr.pop(2)
 end
 #
-def using_shift (arr,arg)
-  return arr.shift(arg)
+def using_shift (arr)
+  return arr.shift(2)
 end
