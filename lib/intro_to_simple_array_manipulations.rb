@@ -45,20 +45,3 @@ end
 def using_delete_at (arr,int)
 return arr.delete(int)
 end
-  
-  
-end
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
